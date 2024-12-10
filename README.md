@@ -14,11 +14,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/LukeDevNation">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukeDevNation&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukeDevNation&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/LukeDevNation">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LukeDevNation&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukeDevNation&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukeDevNation&layout=compact&langs_count=8&theme=algolia"/>
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=LukeDevNation&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </a>
 </p>
+
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
