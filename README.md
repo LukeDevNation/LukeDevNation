@@ -3,28 +3,22 @@
 </h1>
 
 <p align="center" style="font-size: 20px; color: currentColor; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
-  I'm a passionate developer always eager to learn new technologies and build innovative solutions. Let's connect and collaborate! 🚀<br>
-  I specialize in full-stack development, mobile apps, and creative solutions. Join me on my journey of continuous growth!
+  Passionate about new technologies, solving problems, and building innovative solutions. Always eager to learn and push boundaries 🚀.<br>
+  From full-stack development to mobile apps, the goal is to create something awesome! Let's collaborate and build cool things together. 🌟
 </p>
 
 
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<br/>
 <p align="center">
   <a href="https://github.com/LukeDevNation">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LukeDevNation&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukeDevNation&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukeDevNation&layout=compact&langs_count=8&theme=algolia"/>
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=LukeDevNation&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
   </a>
 </p>
 
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,django,fastapi,sqlite,qt,git,github,gitlab" />
