@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center" style="font-size: 20px; color: currentColor; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
-  Passionate about new technologies, solving problems, and building innovative solutions. Always eager to learn and push boundaries 🚀.<br>
-  From full-stack development to mobile apps, the goal is to create something awesome! Let's collaborate and build cool things together. 🌟
+  Passionate about new technologies, solving problems, and building innovative solutions. Always eager to learn and push boundaries.<br>
+  From full-stack development to mobile apps, the goal is to create something awesome! Let's collaborate and build cool things together.
 </p>
 
 
