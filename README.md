@@ -24,5 +24,3 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,django,fastapi,sqlite,qt,git,github,gitlab" />
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,firebase,apple,linkedin,ai,arduino,powershell,cpp" /><br>
 </div>
-<br/>
-<hr/>
