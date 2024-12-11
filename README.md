@@ -21,9 +21,3 @@
     <br> <!-- Espaciado más corto entre las imágenes -->
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,firebase,apple,linkedin,ai,arduino,powershell,cpp" />
 </div>
-
-<br> <!-- Espaciado más corto entre las imágenes y el siguiente bloque -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LukeDevNation&theme=onedark&row=2&column=4&margin=10&no-frame=true&rank=SSS,SS,S,A,B,C" alt="Trophies">
-</p>
