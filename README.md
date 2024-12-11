@@ -1,4 +1,4 @@
-<p align="center" style="margin: 0; padding: 0;">
+<h1 align="center" style="margin: 0; padding: 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&center=true&vCenter=true&width=900&height=60&duration=3000&lines=Control+State+Management;MVVM+Architecture;Python+%28Flask,+Django,+FastAPI%29;Databases+%28SQL+%26+NoSQL%29;Git+%26+Version+Control;Multiplatform+Development;UI%2FUX+Design;Linux+%26+Development+Tools;Animations+%26+Testing+%28Flutter%29;AI+Integration&color=32CD32" style="border: 3px solid #32CD32; border-radius: 10px; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </h1>
 
