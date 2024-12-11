@@ -3,7 +3,7 @@
 </h1>
 
 
-<p align="center" style="font-size: 27px; color: currentColor; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
+<p align="center" style="font-size: 30px; color: currentColor; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
   Passionate about new technologies, solving problems, and building innovative solutions. Always eager to learn and push boundaries.<br>
 </p>
 
