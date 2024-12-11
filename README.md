@@ -8,29 +8,22 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukeDevNation&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=28A745&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukeDevNation&theme=radical&hide_border=true&background=00000000&ring=28A745&fire=28A745&currStreakNum=FFFFFF&currStreakLabel=28A745" alt="GitHub Streak">
-</p>
-
-
 <br/>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukeDevNation&theme=radical&hide_border=true&background=00000000&ring=28A745&fire=28A745&currStreakNum=FFFFFF&currStreakLabel=28A745" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDevNation&theme=radical&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=28A745&hide_border=true&langs_count=10" alt="Top Langs">
 </p>
 
 
 
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,django,fastapi,sqlite,qt,git,github,gitlab" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,firebase,apple,linkedin,ai,arduino,powershell,cpp" /><br>
+    <br> <!-- Espaciado más corto entre las imágenes -->
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,firebase,apple,linkedin,ai,arduino,powershell,cpp" />
 </div>
 
+<br> <!-- Espaciado más corto entre las imágenes y el siguiente bloque -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LukeDevNation&theme=onedark&row=2&column=4&margin=10&no-frame=true&rank=SSS,SS,S,A,B,C" alt="Trophies">
 </p>
-
-
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
