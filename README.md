@@ -15,7 +15,7 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,django,fastapi,sqlite,qt,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,django,sqlite,qt,git,github,gitlab,fastapi" />
     <br> <!-- Espaciado más corto entre las imágenes -->
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,firebase,apple,linkedin,ai,arduino,powershell,cpp" />
 </div>
