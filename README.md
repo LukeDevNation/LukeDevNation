@@ -9,6 +9,7 @@
 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDevNation&theme=radical&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=28A745&hide_border=true&langs_count=15&layout=compact&card_width=335&cache_seconds=1800" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDevNation&theme=radical&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=28A745&hide_border=true&langs_count=15&layout=compact&card_width=335" alt="Top Langs">
 </p>
 
