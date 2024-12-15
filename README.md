@@ -11,10 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDevNation&theme=radical&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=28A745&hide_border=true&langs_count=15&layout=compact&card_width=335&cache_seconds=1800" alt="Top Langs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukeDevNation&theme=dark&hide_border=true&ring=FF4500&fire=FF6347&currStreakNum=FFD700&currStreakLabel=32CD32&sideNums=00FFFF&sideLabels=00FA9A&dates=ADFF2F&background=00000000" alt="LukeDevNation's GitHub contributions">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukeDevNation&show_icons=true&theme=radical" alt="LukeDevNation's GitHub Stats">
-  <img src="https://github-profile-trophy.vercel.app/?username=LukeDevNation&theme=onedark" alt="LukeDevNation's GitHub Trophies">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LukeDevNation&theme=radical" alt="LukeDevNation's Wakatime Stats">
-
 </p>
 
 
